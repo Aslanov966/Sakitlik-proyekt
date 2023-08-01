@@ -1,0 +1,102 @@
+.example-projects{
+    width: 100%;
+    margin-top: 50px;
+    background-image: url(../Images/examplebg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.project-texts{
+    width: 50%;
+    margin-top: 30px;
+}
+.project-head{
+    font-family: Mark Pro;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0em;
+    margin-bottom: 30px;
+
+}
+.project-name{
+    font-family: Mark Pro;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.problema-head{
+    font-family: Mark Pro;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 10px;
+
+
+
+}
+.problem-body{
+    font-family: Mark Pro;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.rabota-head{
+
+    
+    font-family: Mark Pro;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 20px;
+    
+}
+.rabota-body{
+    font-family: Mark Pro;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.project-images{
+    margin-top: 150px;
+    margin-left: 60px;
+    width: 50%;
+}
+.project-images img{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 8px 12px 0px #6d5f5f40;
+
+
+}
+.button button{
+    background: linear-gradient(180deg, #02BEFF 0%, #00A7E1 100%);
+    width: 165px;
+    height: 55px;
+    top: 6732px;
+    left: 100px;
+    border-radius: 50px;
+    font-family: Mark Pro;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 60px;
+
+
+
+}

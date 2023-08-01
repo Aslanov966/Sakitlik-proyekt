@@ -1,0 +1,119 @@
+.prices{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.prices-head{
+    width: 100%;
+    align-items: center;
+    margin-bottom: 30px; 
+}
+.pricelist-head{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pricelist-head img{
+    width: 150px;
+   
+}
+.price-head{
+    font-family: Mark Pro;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #393B3D;
+
+
+}
+
+.prices-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width:100%;
+    margin-top: 50px;
+
+}
+.pricelists-core{
+    box-shadow: 0px 10px 16px 0px #00000033;
+    margin-right: 20px;
+}
+.pricelist-head-text{
+    margin-top: 30px;
+    width: 100%;
+    margin-bottom: 30px;
+    font-family: Mark Pro;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    color: #393B3D;
+    text-align: center;
+
+
+}
+.price-list-p{
+    font-family: Mark Pro;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #393B3D;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-top: 1px solid #D6D6D6;
+    border-bottom: 1px solid #D6D6D6;
+    padding: 10px;
+
+
+
+}
+.pricelist-price{
+    width: 100%;
+    margin-bottom: 20px;
+    font-family: Mark Pro;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0em;
+    color: #00A7E1;
+    text-align: center;
+    border-top: 1px solid #D6D6D6;
+    border-bottom: 1px solid #D6D6D6;
+    padding: 10px;
+
+
+}
+.submits{
+
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+}
+.submits img{
+    width: 15px;
+    height: 15px;
+    margin-top: 10px;
+}
+.pricelists button{
+    width: 200px;
+    height: 60px;
+    border-radius: 60px;
+    background: linear-gradient(180deg, #00A7E1 0%, #003DA6 100%);
+    margin-top: 20px;
+    font-family: Mark Pro;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    color: #FFFFFF;    
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;   
+}

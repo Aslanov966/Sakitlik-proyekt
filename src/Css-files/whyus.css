@@ -1,0 +1,70 @@
+.whyus{
+    background-image: url(../Images/bg\ whyus.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin-top: 20px;
+}
+.whyustexts{
+    margin-top: 40px !important;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   height: 120px;
+   text-align: center;
+   margin: 0px auto;
+   width: 60%;
+   justify-content: space-between;
+}
+.whyustexts h3{
+    color: #393B3D;
+    font-family: Mark Pro;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+.whyus-body{
+    font-family: Mark Pro;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    color: #707070;
+
+
+}
+.list-why{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.why-list-img{
+    margin-bottom: 20px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background: linear-gradient(180deg, #00A1E1 0%, #003FA6 202.5%);
+
+}
+.why-list-img img{
+    width:50px;
+    height: 50px;
+    margin: 10px;    
+}
+.list-why p{
+    width: 50%;
+    font-family: Mark Pro;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.WhyLists{
+    display: flex;
+
+}

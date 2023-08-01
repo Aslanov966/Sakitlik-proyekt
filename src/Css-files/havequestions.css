@@ -1,0 +1,89 @@
+.havequestions{
+    width: 100%;
+    height: 600px;
+    background-image: url(../Images/haveguestionbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.questions-texts{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.question-head{
+    font-family: Mark Pro;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+
+
+}
+.question-body{
+    font-family: Mark Pro;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    margin-top: 30px;
+
+
+}
+.questions-form{
+    width: 380px;
+    height: 480px;
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    margin-top: 80px;
+
+}
+.questions-form form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+
+}
+.questions-form form input{
+    width: 340px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: #EEEEEE;
+    margin-top: 20px;
+    font-family: Mark Pro;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #707070;
+    border: 0px;
+
+    }
+    .questions-form button{
+        align-items: center;
+        width: 200px;
+        height: 60px;
+        border-radius: 60px;
+        font-family: Mark Pro;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 25px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #FFFFFF;
+        background: linear-gradient(180deg, #00A7E1 0%, #003DA6 100%);
+        margin-top: 40px;
+        text-align: center;
+        margin-left: 90px;
+    
+
+
+    }

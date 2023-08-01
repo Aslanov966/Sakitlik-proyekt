@@ -1,0 +1,172 @@
+.calculator-head{
+    font-family: Mark Pro;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 40px;
+}
+.calculator-text{
+    width: 50%;
+    font-family: Mark Pro;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #707070;
+    margin-bottom: 40px;
+
+    
+
+}
+.room-size-head{
+    font-family: Mark Pro;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #393B3D;
+
+    
+    
+
+}
+.calculator-items{
+    width: 70%;
+    margin-top: 60px;
+}
+.calculator{
+    width: 100%;
+    height: 100%;
+    background-image: url(../Images/bg-calcuklator.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.roomsize{
+    margin-top: 30px;
+}
+.roomsize input{
+    width: 200px;
+    height: 60px;
+    margin-right: 40px;
+    text-align: center;
+    border: 1px solid #CFCFCF;
+    border-radius: 10px;
+}
+.apartmant-types{
+    margin-top: 40px;
+}
+.apartmants{
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+}
+.apartmant-head{
+    font-family: Mark Pro;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #393B3D !important;
+
+
+}
+.types input{
+    width: 30px;
+    font-size: 20px;
+}
+.izolations{
+    margin-top: 40px;
+}
+.izolations-checkboxes{
+    display: flex;
+    gap: 40px;
+    margin-top: 20px;
+}
+.izolation-head{
+    font-family: Mark Pro;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #393B3D !important;
+    margin-bottom: 30px;
+}
+
+.calculator-image{
+    height: 410px;
+    margin-top: 0px;
+}
+.calculator-image img{
+    width: 100%;
+}
+.contacts-inputs input{
+    margin-top: 10px;
+    width: 280px;
+    height: 50px !important;
+    margin-right: 40px;
+    text-align: center;
+    border: 1px solid #CFCFCF;
+    border-radius: 10px;
+
+}
+.notes-head{
+    font-family: Mark Pro;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #393B3D !important;
+    margin-bottom: 20px;
+}
+.contact-calculator-head{
+    margin-top: 40px;
+    font-family: Mark Pro;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #393B3D !important;
+    margin-bottom: 30px;
+}
+.notes input{
+    margin-top: 10px;
+    width: 350px;
+    height: 120px;
+    margin-right: 40px;
+    text-align: center;
+    border: 1px solid #CFCFCF;
+    border-radius: 10px;
+}
+.notes{
+    margin-top: 40px;
+}
+.notesbtn{
+    margin-top: 40px;
+    margin-bottom: 150px;
+}
+.notesbtn button{
+    width: 200px;
+    height: 60px;
+    top: 5164px;
+    left: 98px;
+    border-radius: 60px;
+    background: linear-gradient(180deg, #00A7E1 0%, #003DA6 100%);
+    font-family: Mark Pro;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+
+
+
+}

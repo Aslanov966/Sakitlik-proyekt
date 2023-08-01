@@ -1,0 +1,48 @@
+.partnyors{
+    width: 100%;
+    margin-top: 100px;
+    height: 360px;
+    display: flex;
+    flex-direction: column;
+    align-items: center !important;
+}
+.partnyors .container{
+    display: flex;
+    flex-direction: column;
+}
+.partnyor-lists{
+    width: 100%;
+    height: 110px;
+    margin-top: 50px;
+}
+
+.partnyor{
+    width: 140px;
+    height: 60px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    box-shadow: 0px 2px 20px 0px #0000001A; 
+}
+.partnyor img{
+    width: 65%;
+    height: 55px;
+    border-radius: 10px;
+}
+.partnyor-text{
+    width: 100%;
+    margin-top: 50px;
+}
+.partnyor-head{
+    font-family: Mark Pro;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #393B3D;
+
+
+}

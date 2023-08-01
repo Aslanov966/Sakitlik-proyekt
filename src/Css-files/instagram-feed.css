@@ -1,0 +1,61 @@
+.feed-head{
+    font-family: Mark Pro;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #393B3D;
+    margin:  20px;
+
+
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #003DA6;
+
+  }
+  
+  .container:hover .overlay {
+    opacity: 1;
+  }
+  
+  .logo {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  .social-icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 80px;
+  }
+  .social-icons div{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    border: 1px solid #003DA6;
+    border-radius: 50%;
+  }
+  .social-icons div img{
+    text-align: center;
+    width: 35px;
+    margin: 7px ;
+
+  }

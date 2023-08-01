@@ -1,0 +1,33 @@
+.customers-lists{
+    width: 170px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px ;
+    border-radius: 10%;
+    text-align: center;
+    border: 1px solid rgb(247, 247, 247);
+    box-shadow: 2px whitesmoke;
+    
+}
+.customer-text{
+    font-family: Source Sans Pro;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+.customer-number{
+    font-family: Source Sans Pro;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 53px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #00A7E1;
+
+
+}
